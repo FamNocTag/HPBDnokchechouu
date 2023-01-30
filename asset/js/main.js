@@ -52,8 +52,8 @@
     function genTextHello() {
         // text
         var aText = new Array(
-            "Hello, Có lá thư được gửi đến từ một người giấu tên!", 
-            "Nếu bạn là Quỳnh xinh đẹp tuyệt trần thì hãy nhận nó nhé ^^"
+            "Hello, Có lá thư được gửi đến từ một người cute giấu tên! :))", 
+            "Nếu bạn là Nguyễn Thị Kim Ngọc chechou nhất zũ trụ này thì hãy đoán nhận nó nhé ^^"
         );
     
         var iSpeed = 100; // time delay of print out
@@ -108,10 +108,10 @@
     function genTextCmsn() {
         // text
         var aText = new Array(
-            "Chúc mừng sinh nhật, chúc em sinh nhật thật nhiều niềm vui!",
-            "Sau này còn cả hành trình dài, chúc cho em chân cứng đá mềm, mọi nỗ lực đều có kết quả.",
-           "Chúc cho em sức khoẻ để đương đầu với khó khăn, gia đình yên ấm, một đời bình an. Thương em!",
-           "Còn bây giờ bật mí người gửi thư nè ~"
+           "Chúc mừng sinh nhật, chúc chechou sinh nhật thật nhiều niềm vui!",
+           "Sau này còn cả hành trình dài, chúc cho nocthunhat chân cứng đá mềm, mọi nỗ lực đều có kết quả.",
+           "Chúc cho kontrua GIÀU sức khoẻ để đương đầu với khó khăn, gia đình yên ấm, một đời bình an, sớm có đc một tấm chồng để nương tựa🙂.",
+           "à Nhớ nhắc má6 vs kc lì xì mink ~.~. Đừng có giếm à!😒....."
         );
     
         var iSpeed = 100; // time delay of print out
