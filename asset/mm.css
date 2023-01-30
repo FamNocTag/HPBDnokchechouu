@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+.content-image {
+    display: none;
+    justify-content: space-around;
+    /* align-items: center; */
+    flex-wrap: wrap;
+}
+
+.image-wrap {
+    margin-bottom: 24px;
+    width: 200px;
+}
+
+.image-item {
+    margin-bottom: 12px;
+    background-color: red;
+    width: 200px;
+    height: 300px;
+}
+
+.image-detail {
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    display: block;
+    width: 100%;
+}
